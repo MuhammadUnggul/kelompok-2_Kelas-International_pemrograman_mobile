@@ -1,1 +1,11 @@
-# kelompok-1_Kelas-International_pemrograman_mobile
+<h1 align="center">Kelompok-1_Kelas-International_Pemrograman_Mobile</h1>
+
+<div align="center">
+
+### Team Members
+
+**Muhammad Unggul Putra Ribie** — `D121241005` — `MuhammadUnggul`  
+**Muhammad Alif Naufal Fatin** — `D121241097` — `PlaceHolder`   
+**Muhammad Fadhil Razak** — `D121241005` — `PlaceHolder`
+
+</div>
