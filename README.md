@@ -6,6 +6,6 @@
 
 **Muhammad Unggul Putra Ribie** — `D121241005` — `MuhammadUnggul`  
 **Muhammad Alif Naufal Fatin** — `D121241097` — `makangithub`   
-**Muhammad Fadhil Razak** — `D121241005` — `FXDLL`
+**Muhammad Fadhil Razak** — `D121241060` — `FXDLL`
 
 </div>
