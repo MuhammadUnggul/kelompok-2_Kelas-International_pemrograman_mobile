@@ -5,7 +5,7 @@
 ### Team Members
 
 **Muhammad Unggul Putra Ribie** — `D121241005` — `MuhammadUnggul`  
-**Muhammad Alif Naufal Fatin** — `D121241097` — `PlaceHolder`   
+**Muhammad Alif Naufal Fatin** — `D121241097` — `Fatin`   
 **Muhammad Fadhil Razak** — `D121241005` — `PlaceHolder`
 
 </div>
